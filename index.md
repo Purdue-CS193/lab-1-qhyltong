@@ -1,3 +1,9 @@
+# Quinten's First CS193 Lab
+1. It is only one day a week
+2. It is laid back
+3. It is a GPA booster
+4. Interesting Labs
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
