@@ -1,8 +1,8 @@
 # Quinten's First CS193 Lab
-1. It is only one day a week
-2. It is laid back
-3. It is a GPA booster
-4. Interesting Labs
+- It is only one day a week
+- It is laid back
+- It is a GPA booster
+- Interesting Labs
 
 ## Welcome to GitHub Pages
 
